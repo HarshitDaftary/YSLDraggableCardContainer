@@ -23,7 +23,81 @@
 		D04F1C1A1BF0FA0500CA86FD /* photo_sample_05.png in Resources */ = {isa = PBXBuildFile; fileRef = D04F1C131BF0FA0500CA86FD /* photo_sample_05.png */; };
 		D04F1C1B1BF0FA0500CA86FD /* photo_sample_06.png in Resources */ = {isa = PBXBuildFile; fileRef = D04F1C141BF0FA0500CA86FD /* photo_sample_06.png */; };
 		D04F1C1C1BF0FA0500CA86FD /* photo_sample_07.png in Resources */ = {isa = PBXBuildFile; fileRef = D04F1C151BF0FA0500CA86FD /* photo_sample_07.png */; };
+		EEE3046E1DDC97C10083B990 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EEE304251DDC97C10083B990 /* .gitignore */; };
+		EEE3046F1DDC97C10083B990 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = EEE304261DDC97C10083B990 /* .travis.yml */; };
+		EEE304701DDC97C10083B990 /* CODE_OF_CONDUCT.md in Sources */ = {isa = PBXBuildFile; fileRef = EEE304271DDC97C10083B990 /* CODE_OF_CONDUCT.md */; };
+		EEE304711DDC97C10083B990 /* configure in Resources */ = {isa = PBXBuildFile; fileRef = EEE304281DDC97C10083B990 /* configure */; };
+		EEE304721DDC97C10083B990 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = EEE304291DDC97C10083B990 /* LICENSE */; };
+		EEE304731DDC97C10083B990 /* NAME.podspec in Resources */ = {isa = PBXBuildFile; fileRef = EEE3042A1DDC97C10083B990 /* NAME.podspec */; };
+		EEE304741DDC97C10083B990 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = EEE3042D1DDC97C10083B990 /* .gitkeep */; };
+		EEE304751DDC97C10083B990 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = EEE3042F1DDC97C10083B990 /* .gitkeep */; };
+		EEE304761DDC97C10083B990 /* YSLCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE304311DDC97C10083B990 /* YSLCardView.m */; };
+		EEE304771DDC97C10083B990 /* YSLDraggableCardContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE304331DDC97C10083B990 /* YSLDraggableCardContainer.m */; };
+		EEE304781DDC97C10083B990 /* POD_LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = EEE304341DDC97C10083B990 /* POD_LICENSE */; };
+		EEE304791DDC97C10083B990 /* POD_README.md in Sources */ = {isa = PBXBuildFile; fileRef = EEE304351DDC97C10083B990 /* POD_README.md */; };
+		EEE3047A1DDC97C10083B990 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = EEE304361DDC97C10083B990 /* README.md */; };
+		EEE3047B1DDC97C10083B990 /* ConfigureiOS.rb in Resources */ = {isa = PBXBuildFile; fileRef = EEE304381DDC97C10083B990 /* ConfigureiOS.rb */; };
+		EEE3047C1DDC97C10083B990 /* ConfigureSwift.rb in Resources */ = {isa = PBXBuildFile; fileRef = EEE304391DDC97C10083B990 /* ConfigureSwift.rb */; };
+		EEE3047D1DDC97C10083B990 /* MessageBank.rb in Resources */ = {isa = PBXBuildFile; fileRef = EEE3043A1DDC97C10083B990 /* MessageBank.rb */; };
+		EEE3047E1DDC97C10083B990 /* ProjectManipulator.rb in Resources */ = {isa = PBXBuildFile; fileRef = EEE3043B1DDC97C10083B990 /* ProjectManipulator.rb */; };
+		EEE3047F1DDC97C10083B990 /* TemplateConfigurator.rb in Resources */ = {isa = PBXBuildFile; fileRef = EEE3043C1DDC97C10083B990 /* TemplateConfigurator.rb */; };
+		EEE304801DDC97C10083B990 /* kiwi.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE3043E1DDC97C10083B990 /* kiwi.m */; };
+		EEE304811DDC97C10083B990 /* quick.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE3043F1DDC97C10083B990 /* quick.swift */; };
+		EEE304821DDC97C10083B990 /* specta.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE304401DDC97C10083B990 /* specta.m */; };
+		EEE304831DDC97C10083B990 /* xctest.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE304411DDC97C10083B990 /* xctest.m */; };
+		EEE304841DDC97C10083B990 /* xctest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE304421DDC97C10083B990 /* xctest.swift */; };
+		EEE304851DDC97C10083B990 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = EEE304461DDC97C10083B990 /* Podfile */; };
+		EEE304861DDC97C10083B990 /* CPDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE304491DDC97C10083B990 /* CPDAppDelegate.m */; };
+		EEE304871DDC97C10083B990 /* CPDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE3044B1DDC97C10083B990 /* CPDViewController.m */; };
+		EEE304881DDC97C10083B990 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EEE3044C1DDC97C10083B990 /* InfoPlist.strings */; };
+		EEE304891DDC97C10083B990 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEE3044E1DDC97C10083B990 /* Images.xcassets */; };
+		EEE3048A1DDC97C10083B990 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE3044F1DDC97C10083B990 /* main.m */; };
+		EEE3048B1DDC97C10083B990 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE304501DDC97C10083B990 /* Main.storyboard */; };
+		EEE3048C1DDC97C10083B990 /* PROJECT-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EEE304511DDC97C10083B990 /* PROJECT-Info.plist */; };
+		EEE3048D1DDC97C10083B990 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EEE304571DDC97C10083B990 /* InfoPlist.strings */; };
+		EEE3048E1DDC97C10083B990 /* Tests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EEE304591DDC97C10083B990 /* Tests-Info.plist */; };
+		EEE3048F1DDC97C10083B990 /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE3045B1DDC97C10083B990 /* Tests.m */; };
+		EEE304901DDC97C10083B990 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = EEE3045E1DDC97C10083B990 /* Podfile */; };
+		EEE304911DDC97C10083B990 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE304601DDC97C10083B990 /* AppDelegate.swift */; };
+		EEE304921DDC97C10083B990 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EEE304611DDC97C10083B990 /* LaunchScreen.xib */; };
+		EEE304931DDC97C10083B990 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE304631DDC97C10083B990 /* Main.storyboard */; };
+		EEE304941DDC97C10083B990 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEE304651DDC97C10083B990 /* Images.xcassets */; };
+		EEE304951DDC97C10083B990 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EEE304661DDC97C10083B990 /* Info.plist */; };
+		EEE304961DDC97C10083B990 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE304671DDC97C10083B990 /* ViewController.swift */; };
+		EEE304971DDC97C10083B990 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EEE3046C1DDC97C10083B990 /* Info.plist */; };
+		EEE304981DDC97C10083B990 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE3046D1DDC97C10083B990 /* Tests.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EEE3049B1DDC97C20083B990 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EEE304681DDC97C10083B990 /* PROJECT.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 607FACD01AFB9204008FA782;
+			remoteInfo = PROJECT_Example;
+		};
+		EEE3049D1DDC97C20083B990 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EEE304681DDC97C10083B990 /* PROJECT.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 607FACE51AFB9204008FA782;
+			remoteInfo = PROJECT_Tests;
+		};
+		EEE304A11DDC97C20083B990 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EEE304531DDC97C10083B990 /* PROJECT.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6003F58A195388D20070C39A;
+			remoteInfo = PROJECT_Example;
+		};
+		EEE304A31DDC97C20083B990 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EEE304531DDC97C10083B990 /* PROJECT.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6003F5AE195388D20070C39A;
+			remoteInfo = PROJECT_Tests;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		D04F1BEA1BF0F38500CA86FD /* YSLDraggableCardContainerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YSLDraggableCardContainerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +123,57 @@
 		D04F1C131BF0FA0500CA86FD /* photo_sample_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_sample_05.png; sourceTree = "<group>"; };
 		D04F1C141BF0FA0500CA86FD /* photo_sample_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_sample_06.png; sourceTree = "<group>"; };
 		D04F1C151BF0FA0500CA86FD /* photo_sample_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo_sample_07.png; sourceTree = "<group>"; };
+		EEE304251DDC97C10083B990 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		EEE304261DDC97C10083B990 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		EEE304271DDC97C10083B990 /* CODE_OF_CONDUCT.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CODE_OF_CONDUCT.md; sourceTree = "<group>"; };
+		EEE304281DDC97C10083B990 /* configure */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = configure; sourceTree = "<group>"; };
+		EEE304291DDC97C10083B990 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		EEE3042A1DDC97C10083B990 /* NAME.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NAME.podspec; sourceTree = "<group>"; };
+		EEE3042D1DDC97C10083B990 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		EEE3042F1DDC97C10083B990 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		EEE304301DDC97C10083B990 /* YSLCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSLCardView.h; sourceTree = "<group>"; };
+		EEE304311DDC97C10083B990 /* YSLCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSLCardView.m; sourceTree = "<group>"; };
+		EEE304321DDC97C10083B990 /* YSLDraggableCardContainer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSLDraggableCardContainer.h; sourceTree = "<group>"; };
+		EEE304331DDC97C10083B990 /* YSLDraggableCardContainer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSLDraggableCardContainer.m; sourceTree = "<group>"; };
+		EEE304341DDC97C10083B990 /* POD_LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = POD_LICENSE; sourceTree = "<group>"; };
+		EEE304351DDC97C10083B990 /* POD_README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = POD_README.md; sourceTree = "<group>"; };
+		EEE304361DDC97C10083B990 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EEE304381DDC97C10083B990 /* ConfigureiOS.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = ConfigureiOS.rb; sourceTree = "<group>"; };
+		EEE304391DDC97C10083B990 /* ConfigureSwift.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = ConfigureSwift.rb; sourceTree = "<group>"; };
+		EEE3043A1DDC97C10083B990 /* MessageBank.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = MessageBank.rb; sourceTree = "<group>"; };
+		EEE3043B1DDC97C10083B990 /* ProjectManipulator.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = ProjectManipulator.rb; sourceTree = "<group>"; };
+		EEE3043C1DDC97C10083B990 /* TemplateConfigurator.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = TemplateConfigurator.rb; sourceTree = "<group>"; };
+		EEE3043E1DDC97C10083B990 /* kiwi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = kiwi.m; sourceTree = "<group>"; };
+		EEE3043F1DDC97C10083B990 /* quick.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = quick.swift; sourceTree = "<group>"; };
+		EEE304401DDC97C10083B990 /* specta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = specta.m; sourceTree = "<group>"; };
+		EEE304411DDC97C10083B990 /* xctest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = xctest.m; sourceTree = "<group>"; };
+		EEE304421DDC97C10083B990 /* xctest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = xctest.swift; sourceTree = "<group>"; };
+		EEE304461DDC97C10083B990 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		EEE304481DDC97C10083B990 /* CPDAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPDAppDelegate.h; sourceTree = "<group>"; };
+		EEE304491DDC97C10083B990 /* CPDAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPDAppDelegate.m; sourceTree = "<group>"; };
+		EEE3044A1DDC97C10083B990 /* CPDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPDViewController.h; sourceTree = "<group>"; };
+		EEE3044B1DDC97C10083B990 /* CPDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPDViewController.m; sourceTree = "<group>"; };
+		EEE3044D1DDC97C10083B990 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EEE3044E1DDC97C10083B990 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EEE3044F1DDC97C10083B990 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EEE304501DDC97C10083B990 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		EEE304511DDC97C10083B990 /* PROJECT-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "PROJECT-Info.plist"; sourceTree = "<group>"; };
+		EEE304521DDC97C10083B990 /* PROJECT-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "PROJECT-Prefix.pch"; sourceTree = "<group>"; };
+		EEE304531DDC97C10083B990 /* PROJECT.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = PROJECT.xcodeproj; sourceTree = "<group>"; };
+		EEE304581DDC97C10083B990 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EEE304591DDC97C10083B990 /* Tests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Tests-Info.plist"; sourceTree = "<group>"; };
+		EEE3045A1DDC97C10083B990 /* Tests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
+		EEE3045B1DDC97C10083B990 /* Tests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
+		EEE3045E1DDC97C10083B990 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		EEE304601DDC97C10083B990 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EEE304621DDC97C10083B990 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		EEE304641DDC97C10083B990 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EEE304651DDC97C10083B990 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EEE304661DDC97C10083B990 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEE304671DDC97C10083B990 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EEE304681DDC97C10083B990 /* PROJECT.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = PROJECT.xcodeproj; sourceTree = "<group>"; };
+		EEE3046C1DDC97C10083B990 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEE3046D1DDC97C10083B990 /* Tests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +190,7 @@
 		D04F1BE11BF0F38500CA86FD = {
 			isa = PBXGroup;
 			children = (
+				EEE304241DDC97C10083B990 /* HDTinderSwipe */,
 				D04F1BEC1BF0F38500CA86FD /* YSLDraggableCardContainerDemo */,
 				D04F1BEB1BF0F38500CA86FD /* Products */,
 			);
@@ -131,6 +257,194 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		EEE304241DDC97C10083B990 /* HDTinderSwipe */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304251DDC97C10083B990 /* .gitignore */,
+				EEE304261DDC97C10083B990 /* .travis.yml */,
+				EEE304271DDC97C10083B990 /* CODE_OF_CONDUCT.md */,
+				EEE304281DDC97C10083B990 /* configure */,
+				EEE304291DDC97C10083B990 /* LICENSE */,
+				EEE3042A1DDC97C10083B990 /* NAME.podspec */,
+				EEE3042B1DDC97C10083B990 /* Pod */,
+				EEE304341DDC97C10083B990 /* POD_LICENSE */,
+				EEE304351DDC97C10083B990 /* POD_README.md */,
+				EEE304361DDC97C10083B990 /* README.md */,
+				EEE304371DDC97C10083B990 /* setup */,
+				EEE304431DDC97C10083B990 /* templates */,
+			);
+			path = HDTinderSwipe;
+			sourceTree = "<group>";
+		};
+		EEE3042B1DDC97C10083B990 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3042C1DDC97C10083B990 /* Assets */,
+				EEE3042E1DDC97C10083B990 /* Classes */,
+			);
+			path = Pod;
+			sourceTree = "<group>";
+		};
+		EEE3042C1DDC97C10083B990 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3042D1DDC97C10083B990 /* .gitkeep */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		EEE3042E1DDC97C10083B990 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3042F1DDC97C10083B990 /* .gitkeep */,
+				EEE304301DDC97C10083B990 /* YSLCardView.h */,
+				EEE304311DDC97C10083B990 /* YSLCardView.m */,
+				EEE304321DDC97C10083B990 /* YSLDraggableCardContainer.h */,
+				EEE304331DDC97C10083B990 /* YSLDraggableCardContainer.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		EEE304371DDC97C10083B990 /* setup */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304381DDC97C10083B990 /* ConfigureiOS.rb */,
+				EEE304391DDC97C10083B990 /* ConfigureSwift.rb */,
+				EEE3043A1DDC97C10083B990 /* MessageBank.rb */,
+				EEE3043B1DDC97C10083B990 /* ProjectManipulator.rb */,
+				EEE3043C1DDC97C10083B990 /* TemplateConfigurator.rb */,
+				EEE3043D1DDC97C10083B990 /* test_examples */,
+			);
+			path = setup;
+			sourceTree = "<group>";
+		};
+		EEE3043D1DDC97C10083B990 /* test_examples */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3043E1DDC97C10083B990 /* kiwi.m */,
+				EEE3043F1DDC97C10083B990 /* quick.swift */,
+				EEE304401DDC97C10083B990 /* specta.m */,
+				EEE304411DDC97C10083B990 /* xctest.m */,
+				EEE304421DDC97C10083B990 /* xctest.swift */,
+			);
+			path = test_examples;
+			sourceTree = "<group>";
+		};
+		EEE304431DDC97C10083B990 /* templates */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304441DDC97C10083B990 /* ios */,
+				EEE3045C1DDC97C10083B990 /* swift */,
+			);
+			path = templates;
+			sourceTree = "<group>";
+		};
+		EEE304441DDC97C10083B990 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304451DDC97C10083B990 /* Example */,
+			);
+			path = ios;
+			sourceTree = "<group>";
+		};
+		EEE304451DDC97C10083B990 /* Example */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304461DDC97C10083B990 /* Podfile */,
+				EEE304471DDC97C10083B990 /* PROJECT */,
+				EEE304531DDC97C10083B990 /* PROJECT.xcodeproj */,
+				EEE304561DDC97C10083B990 /* Tests */,
+			);
+			path = Example;
+			sourceTree = "<group>";
+		};
+		EEE304471DDC97C10083B990 /* PROJECT */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304481DDC97C10083B990 /* CPDAppDelegate.h */,
+				EEE304491DDC97C10083B990 /* CPDAppDelegate.m */,
+				EEE3044A1DDC97C10083B990 /* CPDViewController.h */,
+				EEE3044B1DDC97C10083B990 /* CPDViewController.m */,
+				EEE3044C1DDC97C10083B990 /* InfoPlist.strings */,
+				EEE3044E1DDC97C10083B990 /* Images.xcassets */,
+				EEE3044F1DDC97C10083B990 /* main.m */,
+				EEE304501DDC97C10083B990 /* Main.storyboard */,
+				EEE304511DDC97C10083B990 /* PROJECT-Info.plist */,
+				EEE304521DDC97C10083B990 /* PROJECT-Prefix.pch */,
+			);
+			path = PROJECT;
+			sourceTree = "<group>";
+		};
+		EEE304541DDC97C10083B990 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304A21DDC97C20083B990 /* PROJECT_Example.app */,
+				EEE304A41DDC97C20083B990 /* PROJECT_Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EEE304561DDC97C10083B990 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304571DDC97C10083B990 /* InfoPlist.strings */,
+				EEE304591DDC97C10083B990 /* Tests-Info.plist */,
+				EEE3045A1DDC97C10083B990 /* Tests-Prefix.pch */,
+				EEE3045B1DDC97C10083B990 /* Tests.m */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		EEE3045C1DDC97C10083B990 /* swift */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3045D1DDC97C10083B990 /* Example */,
+			);
+			path = swift;
+			sourceTree = "<group>";
+		};
+		EEE3045D1DDC97C10083B990 /* Example */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3045E1DDC97C10083B990 /* Podfile */,
+				EEE3045F1DDC97C10083B990 /* PROJECT */,
+				EEE304681DDC97C10083B990 /* PROJECT.xcodeproj */,
+				EEE3046B1DDC97C10083B990 /* Tests */,
+			);
+			path = Example;
+			sourceTree = "<group>";
+		};
+		EEE3045F1DDC97C10083B990 /* PROJECT */ = {
+			isa = PBXGroup;
+			children = (
+				EEE304601DDC97C10083B990 /* AppDelegate.swift */,
+				EEE304611DDC97C10083B990 /* LaunchScreen.xib */,
+				EEE304631DDC97C10083B990 /* Main.storyboard */,
+				EEE304651DDC97C10083B990 /* Images.xcassets */,
+				EEE304661DDC97C10083B990 /* Info.plist */,
+				EEE304671DDC97C10083B990 /* ViewController.swift */,
+			);
+			path = PROJECT;
+			sourceTree = "<group>";
+		};
+		EEE304691DDC97C10083B990 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3049C1DDC97C20083B990 /* PROJECT_Example.app */,
+				EEE3049E1DDC97C20083B990 /* PROJECT_Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EEE3046B1DDC97C10083B990 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				EEE3046C1DDC97C10083B990 /* Info.plist */,
+				EEE3046D1DDC97C10083B990 /* Tests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -176,6 +490,16 @@
 			mainGroup = D04F1BE11BF0F38500CA86FD;
 			productRefGroup = D04F1BEB1BF0F38500CA86FD /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = EEE304691DDC97C10083B990 /* Products */;
+					ProjectRef = EEE304681DDC97C10083B990 /* PROJECT.xcodeproj */;
+				},
+				{
+					ProductGroup = EEE304541DDC97C10083B990 /* Products */;
+					ProjectRef = EEE304531DDC97C10083B990 /* PROJECT.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				D04F1BE91BF0F38500CA86FD /* YSLDraggableCardContainerDemo */,
@@ -183,21 +507,78 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXReferenceProxy section */
+		EEE3049C1DDC97C20083B990 /* PROJECT_Example.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = PROJECT_Example.app;
+			remoteRef = EEE3049B1DDC97C20083B990 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EEE3049E1DDC97C20083B990 /* PROJECT_Tests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = PROJECT_Tests.xctest;
+			remoteRef = EEE3049D1DDC97C20083B990 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EEE304A21DDC97C20083B990 /* PROJECT_Example.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = PROJECT_Example.app;
+			remoteRef = EEE304A11DDC97C20083B990 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EEE304A41DDC97C20083B990 /* PROJECT_Tests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = PROJECT_Tests.xctest;
+			remoteRef = EEE304A31DDC97C20083B990 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
 /* Begin PBXResourcesBuildPhase section */
 		D04F1BE81BF0F38500CA86FD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				D04F1C191BF0FA0500CA86FD /* photo_sample_04.png in Resources */,
+				EEE3047B1DDC97C10083B990 /* ConfigureiOS.rb in Resources */,
+				EEE3047E1DDC97C10083B990 /* ProjectManipulator.rb in Resources */,
+				EEE304891DDC97C10083B990 /* Images.xcassets in Resources */,
+				EEE3048E1DDC97C10083B990 /* Tests-Info.plist in Resources */,
 				D04F1C1C1BF0FA0500CA86FD /* photo_sample_07.png in Resources */,
+				EEE3047F1DDC97C10083B990 /* TemplateConfigurator.rb in Resources */,
+				EEE3048B1DDC97C10083B990 /* Main.storyboard in Resources */,
 				D04F1BFD1BF0F38500CA86FD /* LaunchScreen.storyboard in Resources */,
 				D04F1C171BF0FA0500CA86FD /* photo_sample_02.png in Resources */,
+				EEE304711DDC97C10083B990 /* configure in Resources */,
+				EEE304941DDC97C10083B990 /* Images.xcassets in Resources */,
+				EEE3047D1DDC97C10083B990 /* MessageBank.rb in Resources */,
+				EEE304951DDC97C10083B990 /* Info.plist in Resources */,
+				EEE3047C1DDC97C10083B990 /* ConfigureSwift.rb in Resources */,
+				EEE3048C1DDC97C10083B990 /* PROJECT-Info.plist in Resources */,
+				EEE3048D1DDC97C10083B990 /* InfoPlist.strings in Resources */,
+				EEE304901DDC97C10083B990 /* Podfile in Resources */,
+				EEE3046E1DDC97C10083B990 /* .gitignore in Resources */,
 				D04F1C161BF0FA0500CA86FD /* photo_sample_01.png in Resources */,
+				EEE304971DDC97C10083B990 /* Info.plist in Resources */,
+				EEE3046F1DDC97C10083B990 /* .travis.yml in Resources */,
+				EEE304781DDC97C10083B990 /* POD_LICENSE in Resources */,
 				D04F1BFA1BF0F38500CA86FD /* Assets.xcassets in Resources */,
+				EEE304731DDC97C10083B990 /* NAME.podspec in Resources */,
 				D04F1C1B1BF0FA0500CA86FD /* photo_sample_06.png in Resources */,
+				EEE304751DDC97C10083B990 /* .gitkeep in Resources */,
+				EEE304851DDC97C10083B990 /* Podfile in Resources */,
+				EEE304881DDC97C10083B990 /* InfoPlist.strings in Resources */,
+				EEE304721DDC97C10083B990 /* LICENSE in Resources */,
+				EEE304931DDC97C10083B990 /* Main.storyboard in Resources */,
 				D04F1C1A1BF0FA0500CA86FD /* photo_sample_05.png in Resources */,
+				EEE304921DDC97C10083B990 /* LaunchScreen.xib in Resources */,
 				D04F1BF81BF0F38500CA86FD /* Main.storyboard in Resources */,
 				D04F1C181BF0FA0500CA86FD /* photo_sample_03.png in Resources */,
+				EEE304741DDC97C10083B990 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -209,10 +590,27 @@
 			buildActionMask = 2147483647;
 			files = (
 				D04F1C0D1BF0F9BD00CA86FD /* CardView.m in Sources */,
+				EEE304821DDC97C10083B990 /* specta.m in Sources */,
+				EEE304841DDC97C10083B990 /* xctest.swift in Sources */,
+				EEE304861DDC97C10083B990 /* CPDAppDelegate.m in Sources */,
+				EEE304961DDC97C10083B990 /* ViewController.swift in Sources */,
+				EEE304801DDC97C10083B990 /* kiwi.m in Sources */,
+				EEE304831DDC97C10083B990 /* xctest.m in Sources */,
 				D04F1BF51BF0F38500CA86FD /* ViewController.m in Sources */,
+				EEE304701DDC97C10083B990 /* CODE_OF_CONDUCT.md in Sources */,
+				EEE304981DDC97C10083B990 /* Tests.swift in Sources */,
+				EEE3048A1DDC97C10083B990 /* main.m in Sources */,
 				D04F1C091BF0F99300CA86FD /* YSLCardView.m in Sources */,
 				D04F1BF21BF0F38500CA86FD /* AppDelegate.m in Sources */,
+				EEE304871DDC97C10083B990 /* CPDViewController.m in Sources */,
+				EEE304761DDC97C10083B990 /* YSLCardView.m in Sources */,
+				EEE3048F1DDC97C10083B990 /* Tests.m in Sources */,
+				EEE304811DDC97C10083B990 /* quick.swift in Sources */,
+				EEE304771DDC97C10083B990 /* YSLDraggableCardContainer.m in Sources */,
 				D04F1C0A1BF0F99300CA86FD /* YSLDraggableCardContainer.m in Sources */,
+				EEE304791DDC97C10083B990 /* POD_README.md in Sources */,
+				EEE304911DDC97C10083B990 /* AppDelegate.swift in Sources */,
+				EEE3047A1DDC97C10083B990 /* README.md in Sources */,
 				D04F1BEF1BF0F38500CA86FD /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -234,6 +632,38 @@
 				D04F1BFC1BF0F38500CA86FD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		EEE3044C1DDC97C10083B990 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEE3044D1DDC97C10083B990 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EEE304571DDC97C10083B990 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEE304581DDC97C10083B990 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EEE304611DDC97C10083B990 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEE304621DDC97C10083B990 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		EEE304631DDC97C10083B990 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEE304641DDC97C10083B990 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
