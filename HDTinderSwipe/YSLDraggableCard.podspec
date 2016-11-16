@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YSLDraggableCard'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'YSLDraggableCard, a tinder like swiping control.'
 
 # This description is used to generate tags and improve search results.
